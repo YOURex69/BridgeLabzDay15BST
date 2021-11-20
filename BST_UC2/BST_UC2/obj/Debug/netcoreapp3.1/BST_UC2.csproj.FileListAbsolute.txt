@@ -1,0 +1,13 @@
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\bin\Debug\netcoreapp3.1\BST_UC2.exe
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\bin\Debug\netcoreapp3.1\BST_UC2.deps.json
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\bin\Debug\netcoreapp3.1\BST_UC2.runtimeconfig.json
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\bin\Debug\netcoreapp3.1\BST_UC2.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\bin\Debug\netcoreapp3.1\BST_UC2.dll
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\bin\Debug\netcoreapp3.1\BST_UC2.pdb
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\obj\Debug\netcoreapp3.1\BST_UC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\obj\Debug\netcoreapp3.1\BST_UC2.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\obj\Debug\netcoreapp3.1\BST_UC2.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\obj\Debug\netcoreapp3.1\BST_UC2.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\obj\Debug\netcoreapp3.1\BST_UC2.dll
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\obj\Debug\netcoreapp3.1\BST_UC2.pdb
+D:\bridgelabz\.NET problems\BST_UC2\BST_UC2\obj\Debug\netcoreapp3.1\BST_UC2.genruntimeconfig.cache
